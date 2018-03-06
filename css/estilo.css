@@ -1,0 +1,48 @@
+.letraOferta {
+    font-style: italic;
+    margin: 10px;
+}
+
+.mtop {
+    margin-top: 20px;
+}
+
+.mbottom {
+    margin-bottom: 20px;
+}
+
+footer {
+    width: 100%;
+    bottom: 0;
+    height: 40px;
+    background-color: grey;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+footer p {
+    line-height: 40px;
+    margin: 0% 2%;
+    padding: 0%;
+    font-size: 15px;
+}
+
+header {
+    margin: 0%;
+}
+
+footer p a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
